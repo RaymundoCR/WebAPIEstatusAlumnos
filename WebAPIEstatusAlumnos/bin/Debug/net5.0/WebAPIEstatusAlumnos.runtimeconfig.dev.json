@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\rayse\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\rayse\\.nuget\\packages"
+    ]
+  }
+}
